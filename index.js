@@ -10,7 +10,7 @@ const counter = () => {
     
     if(sec == 0 ){
         setTimeout(()=>{
-             window.location.href = 'https://swiy.co/MVP-EP4'
+             window.location.href = 'https://youtube.com/live/NEnvAhkKI7k'
         },1500)
     }
 }
